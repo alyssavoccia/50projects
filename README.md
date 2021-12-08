@@ -9,3 +9,4 @@ These are the projects I've completed within the 50 Projects in 50 Days course!
 | 4 | Hidden Search Widget |
 | 5 | Blurry Loading       |
 | 6 | Scroll Animation     |
+| 7 | Split Landing Page   |
