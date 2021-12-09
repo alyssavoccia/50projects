@@ -10,3 +10,4 @@ These are the projects I've completed within the 50 Projects in 50 Days course!
 | 5 | Blurry Loading       |
 | 6 | Scroll Animation     |
 | 7 | Split Landing Page   |
+| 8 | Form Input Wave      |
