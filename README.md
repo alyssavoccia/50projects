@@ -11,3 +11,4 @@ These are the projects I've completed within the 50 Projects in 50 Days course!
 | 6 | Scroll Animation     |
 | 7 | Split Landing Page   |
 | 8 | Form Input Wave      |
+| 9 | Sound Board          |
