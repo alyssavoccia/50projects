@@ -14,3 +14,4 @@ These are the projects I've completed within the 50 Projects in 50 Days course!
 |  9 | Sound Board          |
 | 10 | Dad Jokes            |
 | 11 | Event KeyCodes       |
+| 12 | FAQ Collapse         |
