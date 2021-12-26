@@ -17,4 +17,5 @@ These are the projects I've completed so far within the 50 Projects in 50 Days c
 | 12 | FAQ Collapse         | [Demo](https://alyssavoccia.github.io/50projects/faq-collapse/)|
 | 13 | Random Choice Picker | [Demo](https://alyssavoccia.github.io/50projects/random-choice-picker/)|
 | 14 | Animated Navigation  | [Demo](https://alyssavoccia.github.io/50projects/animated-navigation/)|
-| 15 | Increment Counter    | [Demo](https://alyssavoccia.github.io/50projects/increment-counter/)
+| 15 | Increment Counter    | [Demo](https://alyssavoccia.github.io/50projects/increment-counter/)|
+| 16 | Drink Water          | [Demo](https://alyssavoccia.github.io/50projects/drink-water/)|
