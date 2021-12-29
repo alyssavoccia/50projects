@@ -20,3 +20,4 @@ These are the projects I've completed so far within the 50 Projects in 50 Days c
 | 15 | Increment Counter    | [Demo](https://alyssavoccia.github.io/50projects/increment-counter/)|
 | 16 | Drink Water          | [Demo](https://alyssavoccia.github.io/50projects/drink-water/)|
 | 17 | Movie App            | [Demo](https://alyssavoccia.github.io/50projects/movie-app/)|
+| 18 | Background Slider    | [Demo](https://alyssavoccia.github.io/50projects/background-slider/) 
