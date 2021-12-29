@@ -22,3 +22,4 @@ These are the projects I've completed so far within the 50 Projects in 50 Days c
 | 17 | Movie App            | [Demo](https://alyssavoccia.github.io/50projects/movie-app/)|
 | 18 | Background Slider    | [Demo](https://alyssavoccia.github.io/50projects/background-slider/)|
 | 19 | Theme Clock          | [Demo](https://alyssavoccia.github.io/50projects/theme_clock/)| 
+| 20 | Button Ripple Effect | [Demo](https://alyssavoccia.github.io/50projects/button-ripple-effect/)|
